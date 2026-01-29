@@ -373,6 +373,36 @@ article .icon {
 .project-title {
   margin: 1rem;
   color: black;
+  font-size: 1.3rem;
+  min-height: 2.6rem;
+}
+
+.project-description {
+  color: rgb(85, 85, 85);
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  min-height: 4.5rem;
+  text-align: left;
+}
+
+.project-tech {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  flex-wrap: wrap;
+  padding: 0 1rem;
+}
+
+.tech-tag {
+  background: rgb(53, 53, 53);
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 1rem;
+  font-size: 0.85rem;
+  font-weight: 500;
 }
 
 .project-btn {
