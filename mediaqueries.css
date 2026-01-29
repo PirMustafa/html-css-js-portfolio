@@ -100,4 +100,16 @@
     .text-container {
       text-align: justify;
     }
+    .project-title {
+      font-size: 1.1rem;
+      min-height: auto;
+    }
+    .project-description {
+      font-size: 0.9rem;
+      min-height: auto;
+    }
+    .tech-tag {
+      font-size: 0.75rem;
+      padding: 0.3rem 0.6rem;
+    }
   }
